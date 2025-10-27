@@ -4,7 +4,7 @@ SkyperStyle adalah kumpulan library **CSS dan JavaScript** dirancang untuk mempe
 
 ## Library
 ``` 
-<link rel="stylesheet" href="https://skyperstyle.netlify.app/skyperstyle.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/NexdyMC/nexdy-skyper/refs/heads/main/skyperstyle.css">
 ```
 jika mengalami kesulitan untuk menggunakan. sebagai contoh penggunaan library pada html 
 ```html
